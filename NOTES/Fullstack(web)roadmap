@@ -1,0 +1,60 @@
+01/15/2022 - Ver 0.1
+
+Src : youtube - https://youtu.be/SgVXmtMUjbI
+
+Basic Min Dev
+
+	Front End:
+		* HTML
+		* CSS
+		* JavaScript (ESG+)
+
+	Back End:
+		* Node.js, rust, python3
+		* APIs (Rest architecture(common methods get post put delete), HTTP Status Codes)
+		* HTTP (Header concepts, additional JWT tokkens are transefered)
+
+	Misc:
+		* Database (mongoDB.Atlas(NoSQL), PlanetScale(SQL))
+		* Vercel/Netlify/Cloudflare pages
+
+
+Strong Developer
+	
+	Front End:
+		* Tailwind css
+		* Next.js (React.js)
+		* DevTools (Chrome DevTools)
+
+	Back End:
+		* Linux (Deploying onto Linux Servers)
+		* Networking
+		* Caching (Redis)
+		* WebSecurity
+
+	Misc:
+		* NPM, yarn (log files, scripts, How the packages work?, How the node eco-system works?)
+		* Git
+		* EsLinters, Pretier, Webpack, etc.
+		* Gitub (Hosting ur code)
+
+Rockstar Devloper
+	
+	Front End:
+		* Profiling (Performance based etc, understanding the impact of performance etc, memmoization)
+		* WASM (Compiling target)
+		* TypeScript
+		* Staying up-to-date
+
+	Back End:
+		* Cloud based System (AWS, Google Cloud, Digital Ocean)
+			-> S3, EC2, SES
+		* Serverless, Managed (lambda)
+		* TypeScript
+		* Staying Up-To-Date
+
+	Misc:
+		* CI/CD (GitHub)
+		* Testing (Cypress, Unit, Integration, etc.)
+		* Prod/Staging (redundancy, regional failovers)
+		* Security (End-to-End Security Management)
