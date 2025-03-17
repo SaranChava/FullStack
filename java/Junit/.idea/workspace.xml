@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cd0619a-d773-4273-9b40-f9d950226a03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/FullStack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NOTES/.idea/NOTES.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NOTES/Java Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day1/src/main/java/com/saran/day1/Alien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day1/src/main/java/com/saran/day1/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/src/main/java/com/springClass/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/src/main/java/com/springClass/Coder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/src/main/java/com/springClass/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/src/main/java/com/springClass/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/src/main/java/com/springClass/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day2/src/test/java/com/springClass/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/day3JDBC/src/main/java/com/springclass/day3jdbc/testDbConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/Repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/Repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/configuration/LoadDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/controller/CustomerNotFoundAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/controller/EmployeNotFoundAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/util/CustomerNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day0/src/main/java/com/training/spring/day0/util/EmployeeNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Learning/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/Learning/SimpleCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaRefresh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaRefresh/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaRefresh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaRefresh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaRefresh/src/main/java/org/example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaRefresh/src/main/java/org/example/util/ArithmeticException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaRefresh/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/.idea/learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/CoreDay2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/CoreDay3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/IOTesting.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/coreDay1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/out/production/learning/.idea/learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NOTES/Fullstack(web)roadmap" beforeDir="false" afterPath="$PROJECT_DIR$/../../NOTES/Fullstack(web)roadmap" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2gkCoCZ9eneszH7ceYr2Xd4dlE2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "saran",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/saran/GoaldotIO/FullStack/java/Junit/src/main/java/org/Learning/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.Learning" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cd0619a-d773-4273-9b40-f9d950226a03" name="Changes" comment="" />
+      <created>1716232361003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716232361003</updated>
+      <workItem from="1716232362173" duration="2418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
